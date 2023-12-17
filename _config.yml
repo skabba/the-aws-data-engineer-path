@@ -1,16 +1,18 @@
 # Configurations
-title:            Jekyll Gitbook
-longtitle:        Jekyll Gitbook
-author:           HE Tao
-email:            sighingnow@gmail.com
+title:            The AWS Data Engineering Path
+longtitle:        The AWS Data Engineering Path
+author:           Enri Peters
+email:            enripeters@live.com
 description: >
-  Build Jekyll site with the GitBook style.
+  Explore my first-year journey in AWS Data Engineering.
+  Find real experiences, tech comparisons, beginner tips, and resources.
+  Ideal for new AWS data engineers and curious learners.
 
-version:          1.0
+version:          0.1
 gitbook_version:  3.2.3
 
-url:              'https://sighingnow.github.io'
-baseurl:          '/jekyll-gitbook'
+url:              'https://skabba.github.io'
+baseurl:          '/the-aws-data-engineer-path'
 rss:              RSS
 
 # bootstrap: use the remote theme for the site itself
