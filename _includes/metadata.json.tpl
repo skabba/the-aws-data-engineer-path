@@ -37,7 +37,7 @@
             }
         },
         "theme": "default",
-        "author": "Tao He",
+        "author": "Enri Peters",
         "pdf": {
             "pageNumbers": true,
             "fontSize": 12,
